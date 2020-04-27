@@ -15,6 +15,15 @@ public class Produto {
 	private String nome;
 
 	
+	public Produto() {
+		
+	}
+	
+	public Produto(String nome) {
+		super();
+		this.nome = nome;
+	}
+
 	public int getId() {
 		return id;
 	}
