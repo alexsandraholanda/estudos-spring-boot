@@ -1,4 +1,4 @@
-package br.com.estudospring.exercicios_spring.models;
+package br.com.estudospring.exercicios_spring.models.entities;
 
 public class Cliente {
 	private int id;
